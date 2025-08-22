@@ -1,7 +1,4 @@
-## Hi there 👋 I'm Maina Ian, A student at IYF pursuing computer programming aspiring to become a professional programmer.
-
-<!--
-**mainaian2005/mainaian2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Maina Ian, A student at IYF pursuing computer programming aspiring to become a professional progeammer.
 
 Here are some ideas to get you started:
 
